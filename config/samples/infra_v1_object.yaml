@@ -1,0 +1,8 @@
+apiVersion: infra.demo.com/v1
+kind: Object
+metadata:
+  name: object-sample
+spec:
+  # Add fields here
+  foo: bar
+  detail: "detail for demo"
